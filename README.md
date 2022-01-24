@@ -2,6 +2,6 @@
 - 🔭 I’m HR Specialist currently working @<a href="https://github.com/leocode/">**LEOCODE**</a>
 - 🌱 I’m currently learning UX / UI Design; especially UX Research
 
-You can see the game prototype which I co-created during the AGH classes.
+In my repositories You can find the game prototype (foodgame) which I co-created during the AGH classes.
 
 ![Cutscene](Cutscenka_lvl_2.gif)
